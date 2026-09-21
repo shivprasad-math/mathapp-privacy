@@ -43,4 +43,4 @@ to reflect those changes before they take effect.
 ## Contact
 
 If you have questions about this privacy policy, contact:
-[YOUR EMAIL ADDRESS]
+shivprasadn@hotmail.com
