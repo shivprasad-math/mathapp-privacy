@@ -7,10 +7,17 @@ information the app collects and how it is used.
 
 ## Information We Collect
 
-Dnyany does not collect, store, or transmit any personal information.
+Dnyany does not require you to create an account, and we do not
+collect your name, email address, or any other contact details
+through the app.
 
-The app does not require you to create an account, log in, or provide
-your name, email address, or any other personal details.
+Subscriptions are processed by Apple or Google. We use RevenueCat to
+manage subscriptions. RevenueCat receives purchase and subscription
+status information and an anonymous app user identifier so we can
+unlock access after you subscribe, restore purchases and see whether
+your subscription is active. We do not sell this information and do
+not use it for advertising. Learn more at
+https://www.revenuecat.com/privacy.
 
 ## How Your Data Is Stored
 
@@ -24,21 +31,18 @@ with it.
 ## Advertising and Analytics
 
 Dnyany does not display advertisements and does not use any
-third-party analytics or tracking services.
-
-We use RevenueCat to manage subscriptions. RevenueCat receives
-purchase and subscription status information and an app user
-identifier so we can unlock access after you subscribe, restore
-purchases and see whether your subscription is active. Learn more at
-https://www.revenuecat.com/privacy.
+analytics or tracking services.
 
 ## Children's Privacy
 
-Dnyany is designed to be safe for use by children. Because the app
-collects no personal information from anyone, including children
-under 13, it does not knowingly collect personal information from
-children in a way that would require parental consent under COPPA
-or similar laws.
+Dnyany does not ask for personal information and has no accounts,
+advertising, or tracking. We do not knowingly collect personal
+information from children. The only data that leaves the device is
+the anonymous subscription information handled by RevenueCat and the
+app store, as described above.
+
+Parents or guardians who have questions, or who want information
+removed, can contact us at the email address below.
 
 ## Changes to This Policy
 
