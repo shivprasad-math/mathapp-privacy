@@ -1,6 +1,6 @@
 # Privacy Policy for Dnyany
 
-_Last updated: October 15, 2026_
+_Last updated: November 1, 2026_
 
 Dnyany ("the app") is a math practice app. This policy explains what
 information the app collects and how it is used.
@@ -30,8 +30,12 @@ with it.
 
 ## Advertising and Analytics
 
-Dnyany does not display advertisements and does not use any
-analytics or tracking services.
+Dnyany does not display advertisements and does not use advertising
+or tracking services. The only service that receives data from the
+app is RevenueCat, described above, which manages subscriptions and
+provides us with aggregate subscription statistics. We do not use any
+other analytics service, and we do not use this information to track
+you across apps or websites.
 
 ## Children's Privacy
 
